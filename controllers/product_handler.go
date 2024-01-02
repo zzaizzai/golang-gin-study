@@ -2,7 +2,7 @@ package controllers
 
 import (
     "github.com/gin-gonic/gin"
-    "gogo/models"
+    "myapp/models"
     "net/http"
 )
 

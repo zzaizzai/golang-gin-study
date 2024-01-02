@@ -8,6 +8,7 @@ type Product struct {
     Price float64 `json:"price"`
 }
 
+
 // 임시 데이터 저장소로 사용하기 위한 간단한 데이터 슬라이스
 var products []Product
 
